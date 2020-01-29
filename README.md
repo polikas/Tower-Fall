@@ -5,7 +5,7 @@ Team Name: Crypto
 
 Team Members: 
 
-Developers: Stavros Charitos, Gergios Botzakis
+Developers: Stavros Charitos, Georgios Botzakis
 
 Artist: Vasiliki Prokopaki
 
